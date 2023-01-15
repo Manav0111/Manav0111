@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://manav0111.github.io)
+[![Screenshot (5392)](https://user-images.githubusercontent.com/105503834/212537863-79263262-6661-44a9-bcfc-7f99dfa6d09c.png)](https://manav0111.github.io)
 <h1 align="center">Hi 👋, I'm Manav Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
